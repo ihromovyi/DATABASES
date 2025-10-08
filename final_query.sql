@@ -33,4 +33,4 @@ WHERE
 	)
 ORDER BY
     students.name
-LIMIT 10;
+LIMIT 5;
